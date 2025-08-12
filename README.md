@@ -1,4 +1,4 @@
 # Git-demo
 This repository is for Git demo
 <br>
-Author - Sanjay Prajapati
+Author - Sanjay Prajapati(Devloper)
